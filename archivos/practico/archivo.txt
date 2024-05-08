@@ -1,0 +1,7 @@
+
+juana,perez,1234
+lautaro,gomez,678
+juliana,lala,999
+thiago,orue,765
+mICAELA,lo,nano
+jUANA,perez,223

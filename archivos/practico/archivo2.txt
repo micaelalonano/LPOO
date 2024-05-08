@@ -1,0 +1,8 @@
+lolita,juana,12345
+micaela,lonano,333
+Julieta,mkranda,89
+tHIAGO,orue,223
+mIRANDA,juarez,123
+tHIAGO,orue,123
+sosa,fran,333
+julieta,Lonano,222

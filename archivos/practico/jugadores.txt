@@ -1,0 +1,5 @@
+jose,10
+juan,20
+lucas,66
+micaela,70
+ppepe,100
